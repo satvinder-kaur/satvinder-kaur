@@ -17,4 +17,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=satvinder-kaur&show_icons=true&locale=en&layout=compact" alt="satvinder-kaur" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satvinder-kaur&show_icons=true&locale=en" alt="satvinder-kaur" /></p>
+
